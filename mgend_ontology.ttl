@@ -1,0 +1,143 @@
+@prefix : <http://med2rdf.org/mgend/ontology#> .
+@prefix m2r: <http://med2rdf.org/ontology/med2rdf#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+: a owl:Ontology .
+
+#
+# Classes
+#
+:Case a owl:Class ;
+  rdfs:label "Case"@en .
+
+:Submission a owl:Class ;
+  rdfs:label "Submission"@en .
+
+:Submitters a owl:Class ;
+  rdfs:label "Submitters"@en .
+
+:SexCount a owl:Class ;
+  rdfs:label "SexCount"@en .
+
+:Bin01 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "0-9"@en ;
+  m2r:begin 0 ;
+  m2r:lessThan 10 .
+
+:Bin02 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "10-19"@en ;
+  m2r:begin 10 ;
+  m2r:lessThan 20 .
+
+:Bin03 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "20-29"@en ;
+  m2r:begin 20 ;
+  m2r:lessThan 30 .
+
+:Bin04 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "30-39"@en ;
+  m2r:begin 30 ;
+  m2r:lessThan 40 .
+
+:Bin05 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "40-49"@en ;
+  m2r:begin 40 ;
+  m2r:lessThan 50 .
+
+:Bin06 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "50-59"@en ;
+  m2r:begin 50 ;
+  m2r:lessThan 60 .
+
+:Bin07 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "60-69"@en ;
+  m2r:begin 60 ;
+  m2r:lessThan 70 .
+
+:Bin08 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "70-79"@en ;
+  m2r:begin 70 ;
+  m2r:lessThan 80 .
+
+:Bin09 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "80-89"@en ;
+  m2r:begin 80 ;
+  m2r:lessThan 90 .
+
+:Bin10 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "90-99"@en ;
+  m2r:begin 90 ;
+  m2r:lessThan 100 .
+
+:bin11 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "100-"@en ;
+  m2r:begin 100 .
+
+:bin12 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "Unknown"@en .
+
+:bin13 a owl:Class ;
+  rdfs:subClassOf m2r:Bin ;
+  rdfs:label "Not provided"@en .
+
+#
+# Properties
+#
+:age_type a owl:DatatypeProperty ;
+  rdfs:label "age_type"@en ;
+  rdfs:domain m2r:FrequencyDistribution .
+
+:allele_origin a owl:DatatypeProperty ;
+  rdfs:label "allele_origin"@en ;
+  rdfs:domain :Case .
+
+:case a owl:DatatypeProperty ;
+  rdfs:label "case"@en ;
+  rdfs:range :Case .
+
+:case_age_range_count a owl:DatatypeProperty ;
+  rdfs:label "case_age_range_count"@en ;
+  rdfs:domain :Case .
+
+:case_count_total a owl:DatatypeProperty ;
+  rdfs:label "case_count_total"@en ;
+  rdfs:domain :Case ;
+  rdfs:range xsd:nonNegativeInteger .
+
+:case_sex_count a owl:DatatypeProperty ;
+  rdfs:label "case_sex_count"@en ;
+  rdfs:domain :Case .
+
+:case_significance a owl:DatatypeProperty ;
+  rdfs:label "case_significance"@en ;
+  rdfs:domain :Case .
+
+:disease_area a owl:DatatypeProperty ;
+  rdfs:label "disease_area"@en .
+
+:sub_disease_area a owl:DatatypeProperty ;
+  rdfs:label "sub_disease_area"@en .
+
+:submission a owl:DatatypeProperty ;
+  rdfs:label "submission"@en ;
+  rdfs:range :Submission .
+
+:variant_type a owl:DatatypeProperty ;
+  rdfs:label "variant_type"@en ;
+  rdfs:domain :Case .

@@ -1,0 +1,2036 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns='http://www.w3.org/2000/svg' style='background-color: rgb(255, 255, 255);' width='1870px' height='5030px' viewBox='-0.5 -0.5 1870 5030'>
+  <style type='text/css'>
+     .st0 {fill:#FFCE9F;} .st1 {fill:none;stroke:#000000;stroke-width:2;} .st2
+    {opacity:0.6;} .st3 {font-family:&apos;Helvetica&apos;;} .st4
+    {font-size:11px;} .st5 {fill:#FFFFFF;} .st6
+    {font-family:&apos;Helvetica-Bold&apos;;} .st7 {font-size:12px;} .st8
+    {opacity:0.7;fill:#FFFFFF;} .st9
+    {fill:#F8CECC;stroke:#000000;stroke-width:2;} .st9uri
+    {fill:#CCF8F8;stroke:#000000;stroke-width:2;} .st10 {fill:#FFF4C3;} .st11
+    {fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;stroke-dasharray:4,4;} .st12 {fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;} .st13 {enable-background:new;} .st14 {fill:#F2F2E9;} .st15 {fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:3.926,3.926;} 
+  </style>
+  <g>
+    <g>
+      <path d='M230,52 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M230,52 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M50,30 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='48' class='st3 st4'>
+        mgendo:Bin01
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='20' class='st5 st6 st7' dominant-baseline='middle'>
+        Bin
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='222' y='20' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st11' points='230,35 250,35 250,35 465,35'/>
+  <polygon points='460.3,40.7 459.4,39.7 464.4,35.0 459.4,30.3 460.3,29.3 466.5,35.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 30)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='470' y='10' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 35px; margin-left: 471px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  owl:Class
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='560' y='29' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          owl:Class
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='230,35 250,35 250,105 465,105'/>
+  <polygon points='460.3,110.7 459.4,109.7 464.4,105.0 459.4,100.3 460.3,99.3 466.5,105.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 100)'>
+    rdfs:subClassOf
+  </text>
+  <g>
+    <g>
+      <path d='M650,122 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st9uri'/>
+      <path d='M650,122 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M470,100 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='118' class='st3 st4'>
+        m2r:Bin
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='90' class='st5 st6 st7' dominant-baseline='middle'>
+        super_class
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='642' y='90' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,35 250,35 250,175 465,175'/>
+  <polygon points='460.3,180.7 459.4,179.7 464.4,175.0 459.4,170.3 460.3,169.3 466.5,175.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 170)'>
+    rdfs:label
+  </text>
+  <g>
+    <rect x='470' y='150' width='180' height='50' class='st9'/>
+    <polyline points='470,170 470,150 650,150 650,170' class='st2'/>
+    <g>
+      <text x='478' y='185' class='st3 st4' dominant-baseline='middle'>
+        0-9
+      </text>
+    </g>
+    <g>
+      <text x='478' y='160' class='st5 st6 st7' dominant-baseline='middle'>
+        bin_label
+      </text>
+    </g>
+    <g>
+      <text x='642' y='160' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,35 250,35 250,245 465,245'/>
+  <polygon points='460.3,250.7 459.4,249.7 464.4,245.0 459.4,240.3 460.3,239.3 466.5,245.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 240)'>
+    m2r:begin
+  </text>
+  <g>
+    <rect x='470' y='220' width='180' height='50' class='st9'/>
+    <polyline points='470,240 470,220 650,220 650,240' class='st2'/>
+    <g>
+      <text x='478' y='255' class='st3 st4' dominant-baseline='middle'>
+        0
+      </text>
+    </g>
+    <g>
+      <text x='478' y='230' class='st5 st6 st7' dominant-baseline='middle'>
+        age_begin
+      </text>
+    </g>
+    <g>
+      <text x='642' y='230' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,35 250,35 250,315 465,315'/>
+  <polygon points='460.3,320.7 459.4,319.7 464.4,315.0 459.4,310.3 460.3,309.3 466.5,315.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 310)'>
+    m2r:lessThan
+  </text>
+  <g>
+    <rect x='470' y='290' width='180' height='50' class='st9'/>
+    <polyline points='470,310 470,290 650,290 650,310' class='st2'/>
+    <g>
+      <text x='478' y='325' class='st3 st4' dominant-baseline='middle'>
+        10
+      </text>
+    </g>
+    <g>
+      <text x='478' y='300' class='st5 st6 st7' dominant-baseline='middle'>
+        age_end
+      </text>
+    </g>
+    <g>
+      <text x='642' y='300' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path d='M230,402 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M230,402 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M50,380 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='398' class='st3 st4'>
+        mgend_case:MGS000009#GRCh38...
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='370' class='st5 st6 st7' dominant-baseline='middle'>
+        Case
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='222' y='370' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st11' points='230,385 250,385 250,385 465,385'/>
+  <polygon points='460.3,390.7 459.4,389.7 464.4,385.0 459.4,380.3 460.3,379.3 466.5,385.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 380)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='470' y='360' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 385px; margin-left: 471px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  mgendo:Case
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='560' y='379' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          mgendo:Case
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st11' points='230,385 250,385 250,455 465,455'/>
+  <polygon points='460.3,460.7 459.4,459.7 464.4,455.0 459.4,450.3 460.3,449.3 466.5,455.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 450)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='470' y='430' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 455px; margin-left: 471px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  obo:SO_0001778
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='560' y='449' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          obo:SO_0001778
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,525 465,525'/>
+  <polygon points='460.3,530.7 459.4,529.7 464.4,525.0 459.4,520.3 460.3,519.3 466.5,525.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 520)'>
+    m2r:variation
+  </text>
+  <g>
+    <g>
+      <path d='M650,542 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M650,542 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M470,520 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='538' class='st3 st4'>
+        Variant
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='510' class='st5 st6 st7' dominant-baseline='middle'>
+        variant
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='642' y='510' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,595 465,595'/>
+  <polygon points='460.3,600.7 459.4,599.7 464.4,595.0 459.4,590.3 460.3,589.3 466.5,595.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 590)'>
+    m2r:disease
+  </text>
+  <g>
+    <g>
+      <path d='M650,612 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M650,612 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M470,590 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='608' class='st3 st4'>
+        Disease
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='580' class='st5 st6 st7' dominant-baseline='middle'>
+        case_disease
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='642' y='580' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,665 465,665'/>
+  <polygon points='460.3,670.7 459.4,669.7 464.4,665.0 459.4,660.3 460.3,659.3 466.5,665.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 660)'>
+    mgendo:submission
+  </text>
+  <g>
+    <g>
+      <path d='M650,682 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M650,682 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M470,660 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='678' class='st3 st4'>
+        Submission
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='650' class='st5 st6 st7' dominant-baseline='middle'>
+        submission
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='642' y='650' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,735 465,735'/>
+  <polygon points='460.3,740.7 459.4,739.7 464.4,735.0 459.4,730.3 460.3,729.3 466.5,735.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 730)'>
+    mgendo:variant_type
+  </text>
+  <g>
+    <rect x='470' y='710' width='180' height='50' class='st9'/>
+    <polyline points='470,730 470,710 650,710 650,730' class='st2'/>
+    <g>
+      <text x='478' y='745' class='st3 st4' dominant-baseline='middle'>
+        GWAS
+      </text>
+    </g>
+    <g>
+      <text x='478' y='720' class='st5 st6 st7' dominant-baseline='middle'>
+        vtype
+      </text>
+    </g>
+    <g>
+      <text x='642' y='720' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,805 465,805'/>
+  <polygon points='460.3,810.7 459.4,809.7 464.4,805.0 459.4,800.3 460.3,799.3 466.5,805.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 800)'>
+    mgendo:allele_origin
+  </text>
+  <g>
+    <rect x='470' y='780' width='180' height='50' class='st9'/>
+    <polyline points='470,800 470,780 650,780 650,800' class='st2'/>
+    <g>
+      <text x='478' y='815' class='st3 st4' dominant-baseline='middle'>
+        Germline
+      </text>
+    </g>
+    <g>
+      <text x='478' y='790' class='st5 st6 st7' dominant-baseline='middle'>
+        origin
+      </text>
+    </g>
+    <g>
+      <text x='642' y='790' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,875 465,875'/>
+  <polygon points='460.3,880.7 459.4,879.7 464.4,875.0 459.4,870.3 460.3,869.3 466.5,875.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 870)'>
+    mgendo:disease_area
+  </text>
+  <g>
+    <rect x='470' y='850' width='180' height='50' class='st9'/>
+    <polyline points='470,870 470,850 650,850 650,870' class='st2'/>
+    <g>
+      <text x='478' y='885' class='st3 st4' dominant-baseline='middle'>
+        Rare/Intractable diseases
+      </text>
+    </g>
+    <g>
+      <text x='478' y='860' class='st5 st6 st7' dominant-baseline='middle'>
+        case_disease_area
+      </text>
+    </g>
+    <g>
+      <text x='642' y='860' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,945 465,945'/>
+  <polygon points='460.3,950.7 459.4,949.7 464.4,945.0 459.4,940.3 460.3,939.3 466.5,945.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 940)'>
+    mgendo:case_significance
+  </text>
+  <g>
+    <rect x='470' y='920' width='180' height='50' class='st9'/>
+    <polyline points='470,940 470,920 650,920 650,940' class='st2'/>
+    <g>
+      <text x='478' y='955' class='st3 st4' dominant-baseline='middle'>
+        Likely pathogenic
+      </text>
+    </g>
+    <g>
+      <text x='478' y='930' class='st5 st6 st7' dominant-baseline='middle'>
+        significance
+      </text>
+    </g>
+    <g>
+      <text x='642' y='930' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,1015 465,1015'/>
+  <polygon points='460.3,1020.7 459.4,1019.7 464.4,1015.0 459.4,1010.3 460.3,1009.3 466.5,1015.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 1010)'>
+    mgendo:case_count_total
+  </text>
+  <g>
+    <rect x='470' y='990' width='180' height='50' class='st9'/>
+    <polyline points='470,1010 470,990 650,990 650,1010' class='st2'/>
+    <g>
+      <text x='478' y='1025' class='st3 st4' dominant-baseline='middle'>
+        5
+      </text>
+    </g>
+    <g>
+      <text x='478' y='1000' class='st5 st6 st7' dominant-baseline='middle'>
+        total
+      </text>
+    </g>
+    <g>
+      <text x='642' y='1000' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,1085 465,1085'/>
+  <polygon points='460.3,1090.7 459.4,1089.7 464.4,1085.0 459.4,1080.3 460.3,1079.3 466.5,1085.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 1080)'>
+    mgendo:case_age_range_count
+  </text>
+  <g>
+    <ellipse cx='490' cy='1085' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st11' points='510,1085 530,1085 530,1085 745,1085'/>
+  <polygon points='740.3,1090.7 739.4,1089.7 744.4,1085.0 739.4,1080.3 740.3,1079.3 746.5,1085.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1080)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='750' y='1060' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 1085px; margin-left: 751px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  m2r:FrequencyDistribution
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='840' y='1079' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          m2r:FrequencyDistribution
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st11' points='510,1085 530,1085 530,1155 745,1155'/>
+  <polygon points='740.3,1160.7 739.4,1159.7 744.4,1155.0 739.4,1150.3 740.3,1149.3 746.5,1155.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1150)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='750' y='1130' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 1155px; margin-left: 751px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  olo:OrderedList
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='840' y='1149' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          olo:OrderedList
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='510,1085 530,1085 530,1225 745,1225'/>
+  <polygon points='740.3,1230.7 739.4,1229.7 744.4,1225.0 739.4,1220.3 740.3,1219.3 746.5,1225.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1220)'>
+    mgendo:age_type
+  </text>
+  <g>
+    <rect x='750' y='1200' width='180' height='50' class='st9'/>
+    <polyline points='750,1220 750,1200 930,1200 930,1220' class='st2'/>
+    <g>
+      <text x='758' y='1235' class='st3 st4' dominant-baseline='middle'>
+        Age
+      </text>
+    </g>
+    <g>
+      <text x='758' y='1210' class='st5 st6 st7' dominant-baseline='middle'>
+        age_type
+      </text>
+    </g>
+    <g>
+      <text x='922' y='1210' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='510,1085 530,1085 530,1295 745,1295'/>
+  <polygon points='740.3,1300.7 739.4,1299.7 744.4,1295.0 739.4,1290.3 740.3,1289.3 746.5,1295.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1290)'>
+    sio:SIO_000221
+  </text>
+  <g>
+    <g>
+      <path d='M930,1312 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st9uri'/>
+      <path d='M930,1312 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M750,1290 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='758' y='1308' class='st3 st4'>
+        sio:SIO_001013
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='758' y='1280' class='st5 st6 st7' dominant-baseline='middle'>
+        age_unit
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='922' y='1280' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='510,1085 530,1085 530,1365 745,1365'/>
+  <polygon points='740.3,1370.7 739.4,1369.7 744.4,1365.0 739.4,1360.3 740.3,1359.3 746.5,1365.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1360)'>
+    olo:length
+  </text>
+  <g>
+    <rect x='750' y='1340' width='180' height='50' class='st9'/>
+    <polyline points='750,1360 750,1340 930,1340 930,1360' class='st2'/>
+    <g>
+      <text x='758' y='1375' class='st3 st4' dominant-baseline='middle'>
+        13
+      </text>
+    </g>
+    <g>
+      <text x='758' y='1350' class='st5 st6 st7' dominant-baseline='middle'>
+        age_length
+      </text>
+    </g>
+    <g>
+      <text x='922' y='1350' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='510,1085 530,1085 530,1435 745,1435'/>
+  <polygon points='740.3,1440.7 739.4,1439.7 744.4,1435.0 739.4,1430.3 740.3,1429.3 746.5,1435.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1430)'>
+    olo:slot
+  </text>
+  <g>
+    <ellipse cx='770' cy='1435' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st12' points='790,1435 810,1435 810,1435 1025,1435'/>
+  <polygon points='1020.3,1440.7 1019.4,1439.7 1024.4,1435.0 1019.4,1430.3 1020.3,1429.3 1026.5,1435.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 820 1430)'>
+    olo:index
+  </text>
+  <g>
+    <rect x='1030' y='1410' width='180' height='50' class='st9'/>
+    <polyline points='1030,1430 1030,1410 1210,1410 1210,1430' class='st2'/>
+    <g>
+      <text x='1038' y='1445' class='st3 st4' dominant-baseline='middle'>
+        1
+      </text>
+    </g>
+    <g>
+      <text x='1038' y='1420' class='st5 st6 st7' dominant-baseline='middle'>
+        age_index
+      </text>
+    </g>
+    <g>
+      <text x='1202' y='1420' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='790,1435 810,1435 810,1505 1025,1505'/>
+  <polygon points='1020.3,1510.7 1019.4,1509.7 1024.4,1505.0 1019.4,1500.3 1020.3,1499.3 1026.5,1505.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 820 1500)'>
+    olo:item
+  </text>
+  <g>
+    <ellipse cx='1050' cy='1505' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st11' points='1070,1505 1090,1505 1090,1505 1305,1505'/>
+  <polygon points='1300.3,1510.7 1299.4,1509.7 1304.4,1505.0 1299.4,1500.3 1300.3,1499.3 1306.5,1505.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 1100 1500)'>
+    rdf:type
+  </text>
+  <g>
+    <g>
+      <path d='M1490,1522 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M1490,1522 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M1310,1500 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='1318' y='1518' class='st3 st4'>
+        Bin
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='1318' y='1490' class='st5 st6 st7' dominant-baseline='middle'>
+        age_bin
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='1482' y='1490' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='1070,1505 1090,1505 1090,1575 1305,1575'/>
+  <polygon points='1300.3,1580.7 1299.4,1579.7 1304.4,1575.0 1299.4,1570.3 1300.3,1569.3 1306.5,1575.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 1100 1570)'>
+    rdf:value
+  </text>
+  <g>
+    <rect x='1310' y='1550' width='180' height='50' class='st9'/>
+    <polyline points='1310,1570 1310,1550 1490,1550 1490,1570' class='st2'/>
+    <g>
+      <text x='1318' y='1585' class='st3 st4' dominant-baseline='middle'>
+        0
+      </text>
+    </g>
+    <g>
+      <text x='1318' y='1560' class='st5 st6 st7' dominant-baseline='middle'>
+        age_count
+      </text>
+    </g>
+    <g>
+      <text x='1482' y='1560' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,1645 465,1645'/>
+  <polygon points='460.3,1650.7 459.4,1649.7 464.4,1645.0 459.4,1640.3 460.3,1639.3 466.5,1645.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 1640)'>
+    mgendo:case_age_range_count
+  </text>
+  <g>
+    <ellipse cx='490' cy='1645' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st11' points='510,1645 530,1645 530,1645 745,1645'/>
+  <polygon points='740.3,1650.7 739.4,1649.7 744.4,1645.0 739.4,1640.3 740.3,1639.3 746.5,1645.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1640)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='750' y='1620' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 1645px; margin-left: 751px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  m2r:FrequencyDistribution
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='840' y='1639' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          m2r:FrequencyDistribution
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st11' points='510,1645 530,1645 530,1715 745,1715'/>
+  <polygon points='740.3,1720.7 739.4,1719.7 744.4,1715.0 739.4,1710.3 740.3,1709.3 746.5,1715.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1710)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='750' y='1690' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 1715px; margin-left: 751px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  olo:OrderedList
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='840' y='1709' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          olo:OrderedList
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='510,1645 530,1645 530,1785 745,1785'/>
+  <polygon points='740.3,1790.7 739.4,1789.7 744.4,1785.0 739.4,1780.3 740.3,1779.3 746.5,1785.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1780)'>
+    mgendo:age_type
+  </text>
+  <g>
+    <rect x='750' y='1760' width='180' height='50' class='st9'/>
+    <polyline points='750,1780 750,1760 930,1760 930,1780' class='st2'/>
+    <g>
+      <text x='758' y='1795' class='st3 st4' dominant-baseline='middle'>
+        AgeOfOnset
+      </text>
+    </g>
+    <g>
+      <text x='758' y='1770' class='st5 st6 st7' dominant-baseline='middle'>
+        age_of_onset_type
+      </text>
+    </g>
+    <g>
+      <text x='922' y='1770' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='510,1645 530,1645 530,1855 745,1855'/>
+  <polygon points='740.3,1860.7 739.4,1859.7 744.4,1855.0 739.4,1850.3 740.3,1849.3 746.5,1855.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1850)'>
+    sio:SIO_000221
+  </text>
+  <g>
+    <g>
+      <path d='M930,1872 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st9uri'/>
+      <path d='M930,1872 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M750,1850 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='758' y='1868' class='st3 st4'>
+        sio:SIO_001013
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='758' y='1840' class='st5 st6 st7' dominant-baseline='middle'>
+        age_of_onset_unit
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='922' y='1840' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='510,1645 530,1645 530,1925 745,1925'/>
+  <polygon points='740.3,1930.7 739.4,1929.7 744.4,1925.0 739.4,1920.3 740.3,1919.3 746.5,1925.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1920)'>
+    olo:length
+  </text>
+  <g>
+    <rect x='750' y='1900' width='180' height='50' class='st9'/>
+    <polyline points='750,1920 750,1900 930,1900 930,1920' class='st2'/>
+    <g>
+      <text x='758' y='1935' class='st3 st4' dominant-baseline='middle'>
+        13
+      </text>
+    </g>
+    <g>
+      <text x='758' y='1910' class='st5 st6 st7' dominant-baseline='middle'>
+        age_of_onset_length
+      </text>
+    </g>
+    <g>
+      <text x='922' y='1910' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='510,1645 530,1645 530,1995 745,1995'/>
+  <polygon points='740.3,2000.7 739.4,1999.7 744.4,1995.0 739.4,1990.3 740.3,1989.3 746.5,1995.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 1990)'>
+    olo:slot
+  </text>
+  <g>
+    <ellipse cx='770' cy='1995' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st12' points='790,1995 810,1995 810,1995 1025,1995'/>
+  <polygon points='1020.3,2000.7 1019.4,1999.7 1024.4,1995.0 1019.4,1990.3 1020.3,1989.3 1026.5,1995.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 820 1990)'>
+    olo:index
+  </text>
+  <g>
+    <rect x='1030' y='1970' width='180' height='50' class='st9'/>
+    <polyline points='1030,1990 1030,1970 1210,1970 1210,1990' class='st2'/>
+    <g>
+      <text x='1038' y='2005' class='st3 st4' dominant-baseline='middle'>
+        1
+      </text>
+    </g>
+    <g>
+      <text x='1038' y='1980' class='st5 st6 st7' dominant-baseline='middle'>
+        age_of_onset_index
+      </text>
+    </g>
+    <g>
+      <text x='1202' y='1980' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='790,1995 810,1995 810,2065 1025,2065'/>
+  <polygon points='1020.3,2070.7 1019.4,2069.7 1024.4,2065.0 1019.4,2060.3 1020.3,2059.3 1026.5,2065.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 820 2060)'>
+    olo:item
+  </text>
+  <g>
+    <ellipse cx='1050' cy='2065' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st11' points='1070,2065 1090,2065 1090,2065 1305,2065'/>
+  <polygon points='1300.3,2070.7 1299.4,2069.7 1304.4,2065.0 1299.4,2060.3 1300.3,2059.3 1306.5,2065.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 1100 2060)'>
+    rdf:type
+  </text>
+  <g>
+    <g>
+      <path d='M1490,2082 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M1490,2082 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M1310,2060 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='1318' y='2078' class='st3 st4'>
+        Bin
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='1318' y='2050' class='st5 st6 st7' dominant-baseline='middle'>
+        age_of_onset_bin
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='1482' y='2050' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='1070,2065 1090,2065 1090,2135 1305,2135'/>
+  <polygon points='1300.3,2140.7 1299.4,2139.7 1304.4,2135.0 1299.4,2130.3 1300.3,2129.3 1306.5,2135.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 1100 2130)'>
+    rdf:value
+  </text>
+  <g>
+    <rect x='1310' y='2110' width='180' height='50' class='st9'/>
+    <polyline points='1310,2130 1310,2110 1490,2110 1490,2130' class='st2'/>
+    <g>
+      <text x='1318' y='2145' class='st3 st4' dominant-baseline='middle'>
+        0
+      </text>
+    </g>
+    <g>
+      <text x='1318' y='2120' class='st5 st6 st7' dominant-baseline='middle'>
+        age_of_onset_count
+      </text>
+    </g>
+    <g>
+      <text x='1482' y='2120' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,385 250,385 250,2205 465,2205'/>
+  <polygon points='460.3,2210.7 459.4,2209.7 464.4,2205.0 459.4,2200.3 460.3,2199.3 466.5,2205.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 2200)'>
+    mgendo:case_sex_count
+  </text>
+  <g>
+    <ellipse cx='490' cy='2205' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st11' points='510,2205 530,2205 530,2205 745,2205'/>
+  <polygon points='740.3,2210.7 739.4,2209.7 744.4,2205.0 739.4,2200.3 740.3,2199.3 746.5,2205.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 2200)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='750' y='2180' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 2205px; margin-left: 751px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  mgendo:SexCount
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='840' y='2199' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          mgendo:SexCount
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='510,2205 530,2205 530,2275 745,2275'/>
+  <polygon points='740.3,2280.7 739.4,2279.7 744.4,2275.0 739.4,2270.3 740.3,2269.3 746.5,2275.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 2270)'>
+    rdf:value
+  </text>
+  <g>
+    <rect x='750' y='2250' width='180' height='50' class='st9'/>
+    <polyline points='750,2270 750,2250 930,2250 930,2270' class='st2'/>
+    <g>
+      <text x='758' y='2285' class='st3 st4' dominant-baseline='middle'>
+        3
+      </text>
+    </g>
+    <g>
+      <text x='758' y='2260' class='st5 st6 st7' dominant-baseline='middle'>
+        sex_count
+      </text>
+    </g>
+    <g>
+      <text x='922' y='2260' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='510,2205 530,2205 530,2345 745,2345'/>
+  <polygon points='740.3,2350.7 739.4,2349.7 744.4,2345.0 739.4,2340.3 740.3,2339.3 746.5,2345.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 2340)'>
+    rdfs:label
+  </text>
+  <g>
+    <rect x='750' y='2320' width='180' height='50' class='st9'/>
+    <polyline points='750,2340 750,2320 930,2320 930,2340' class='st2'/>
+    <g>
+      <text x='758' y='2355' class='st3 st4' dominant-baseline='middle'>
+        male
+      </text>
+    </g>
+    <g>
+      <text x='758' y='2330' class='st5 st6 st7' dominant-baseline='middle'>
+        sex_label
+      </text>
+    </g>
+    <g>
+      <text x='922' y='2330' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path d='M230,2432 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M230,2432 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M50,2410 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='2428' class='st3 st4'>
+        mgend_submission:MGS00099
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='2400' class='st5 st6 st7' dominant-baseline='middle'>
+        Submission
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='222' y='2400' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st11' points='230,2415 250,2415 250,2415 465,2415'/>
+  <polygon points='460.3,2420.7 459.4,2419.7 464.4,2415.0 459.4,2410.3 460.3,2409.3 466.5,2415.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 2410)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='470' y='2390' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 2415px; margin-left: 471px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  mgendo:Submission
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='560' y='2409' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          mgendo:Submission
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='230,2415 250,2415 250,2485 465,2485'/>
+  <polygon points='460.3,2490.7 459.4,2489.7 464.4,2485.0 459.4,2480.3 460.3,2479.3 466.5,2485.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 2480)'>
+    dcterms:identifier
+  </text>
+  <g>
+    <rect x='470' y='2460' width='180' height='50' class='st9'/>
+    <polyline points='470,2480 470,2460 650,2460 650,2480' class='st2'/>
+    <g>
+      <text x='478' y='2495' class='st3 st4' dominant-baseline='middle'>
+        MGS00099
+      </text>
+    </g>
+    <g>
+      <text x='478' y='2470' class='st5 st6 st7' dominant-baseline='middle'>
+        submission_id
+      </text>
+    </g>
+    <g>
+      <text x='642' y='2470' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,2415 250,2415 250,2555 465,2555'/>
+  <polygon points='460.3,2560.7 459.4,2559.7 464.4,2555.0 459.4,2550.3 460.3,2549.3 466.5,2555.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 2550)'>
+    pav:providedBy
+  </text>
+  <g>
+    <ellipse cx='490' cy='2555' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st11' points='510,2555 530,2555 530,2555 745,2555'/>
+  <polygon points='740.3,2560.7 739.4,2559.7 744.4,2555.0 739.4,2550.3 740.3,2549.3 746.5,2555.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 2550)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='750' y='2530' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 2555px; margin-left: 751px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  mgendo:Submitters, olo:OrderList
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='840' y='2549' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          mgendo:Submitters, olo:OrderList
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='510,2555 530,2555 530,2625 745,2625'/>
+  <polygon points='740.3,2630.7 739.4,2629.7 744.4,2625.0 739.4,2620.3 740.3,2619.3 746.5,2625.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 2620)'>
+    olo:length
+  </text>
+  <g>
+    <rect x='750' y='2600' width='180' height='50' class='st9'/>
+    <polyline points='750,2620 750,2600 930,2600 930,2620' class='st2'/>
+    <g>
+      <text x='758' y='2635' class='st3 st4' dominant-baseline='middle'>
+        1
+      </text>
+    </g>
+    <g>
+      <text x='758' y='2610' class='st5 st6 st7' dominant-baseline='middle'>
+        submitter_length
+      </text>
+    </g>
+    <g>
+      <text x='922' y='2610' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='510,2555 530,2555 530,2695 745,2695'/>
+  <polygon points='740.3,2700.7 739.4,2699.7 744.4,2695.0 739.4,2690.3 740.3,2689.3 746.5,2695.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 2690)'>
+    olo:slot
+  </text>
+  <g>
+    <ellipse cx='770' cy='2695' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st12' points='790,2695 810,2695 810,2695 1025,2695'/>
+  <polygon points='1020.3,2700.7 1019.4,2699.7 1024.4,2695.0 1019.4,2690.3 1020.3,2689.3 1026.5,2695.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 820 2690)'>
+    olo:index
+  </text>
+  <g>
+    <rect x='1030' y='2670' width='180' height='50' class='st9'/>
+    <polyline points='1030,2690 1030,2670 1210,2670 1210,2690' class='st2'/>
+    <g>
+      <text x='1038' y='2705' class='st3 st4' dominant-baseline='middle'>
+        1
+      </text>
+    </g>
+    <g>
+      <text x='1038' y='2680' class='st5 st6 st7' dominant-baseline='middle'>
+        oindex
+      </text>
+    </g>
+    <g>
+      <text x='1202' y='2680' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='790,2695 810,2695 810,2765 1025,2765'/>
+  <polygon points='1020.3,2770.7 1019.4,2769.7 1024.4,2765.0 1019.4,2760.3 1020.3,2759.3 1026.5,2765.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 820 2760)'>
+    olo:item
+  </text>
+  <g>
+    <ellipse cx='1050' cy='2765' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st11' points='1070,2765 1090,2765 1090,2765 1305,2765'/>
+  <polygon points='1300.3,2770.7 1299.4,2769.7 1304.4,2765.0 1299.4,2760.3 1300.3,2759.3 1306.5,2765.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 1100 2760)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='1310' y='2740' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 2765px; margin-left: 1311px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  foaf:Person
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='1400' y='2759' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          foaf:Person
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='1070,2765 1090,2765 1090,2835 1305,2835'/>
+  <polygon points='1300.3,2840.7 1299.4,2839.7 1304.4,2835.0 1299.4,2830.3 1300.3,2829.3 1306.5,2835.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 1100 2830)'>
+    foaf:name
+  </text>
+  <g>
+    <rect x='1310' y='2810' width='180' height='50' class='st9'/>
+    <polyline points='1310,2830 1310,2810 1490,2810 1490,2830' class='st2'/>
+    <g>
+      <text x='1318' y='2845' class='st3 st4' dominant-baseline='middle'>
+        &quot;Hitoshi Nakagama&quot;@en
+      </text>
+    </g>
+    <g>
+      <text x='1318' y='2820' class='st5 st6 st7' dominant-baseline='middle'>
+        submitter_name
+      </text>
+    </g>
+    <g>
+      <text x='1482' y='2820' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='1070,2765 1090,2765 1090,2905 1305,2905'/>
+  <polygon points='1300.3,2910.7 1299.4,2909.7 1304.4,2905.0 1299.4,2900.3 1300.3,2899.3 1306.5,2905.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 1100 2900)'>
+    org:memberOf
+  </text>
+  <g>
+    <ellipse cx='1330' cy='2905' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st11' points='1350,2905 1370,2905 1370,2905 1585,2905'/>
+  <polygon points='1580.3,2910.7 1579.4,2909.7 1584.4,2905.0 1579.4,2900.3 1580.3,2899.3 1586.5,2905.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 1380 2900)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='1590' y='2880' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 2905px; margin-left: 1591px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  org:Organization
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='1680' y='2899' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          org:Organization
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='1350,2905 1370,2905 1370,2975 1585,2975'/>
+  <polygon points='1580.3,2980.7 1579.4,2979.7 1584.4,2975.0 1579.4,2970.3 1580.3,2969.3 1586.5,2975.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 1380 2970)'>
+    rdfs:label
+  </text>
+  <g>
+    <rect x='1590' y='2950' width='180' height='50' class='st9'/>
+    <polyline points='1590,2970 1590,2950 1770,2950 1770,2970' class='st2'/>
+    <g>
+      <text x='1598' y='2985' class='st3 st4' dominant-baseline='middle'>
+        &quot;NCC&quot;@en
+      </text>
+    </g>
+    <g>
+      <text x='1598' y='2960' class='st5 st6 st7' dominant-baseline='middle'>
+        submitter_institute
+      </text>
+    </g>
+    <g>
+      <text x='1762' y='2960' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,2415 250,2415 250,3045 465,3045'/>
+  <polygon points='460.3,3050.7 459.4,3049.7 464.4,3045.0 459.4,3040.3 460.3,3039.3 466.5,3045.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3040)'>
+    mgendo:disease_area
+  </text>
+  <g>
+    <rect x='470' y='3020' width='180' height='50' class='st9'/>
+    <polyline points='470,3040 470,3020 650,3020 650,3040' class='st2'/>
+    <g>
+      <text x='478' y='3055' class='st3 st4' dominant-baseline='middle'>
+        Rare/Intractable diseases
+      </text>
+    </g>
+    <g>
+      <text x='478' y='3030' class='st5 st6 st7' dominant-baseline='middle'>
+        submission_disease_area
+      </text>
+    </g>
+    <g>
+      <text x='642' y='3030' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,2415 250,2415 250,3115 465,3115'/>
+  <polygon points='460.3,3120.7 459.4,3119.7 464.4,3115.0 459.4,3110.3 460.3,3109.3 466.5,3115.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3110)'>
+    mgendo:case
+  </text>
+  <g>
+    <g>
+      <path d='M650,3132 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M650,3132 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M470,3110 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='3128' class='st3 st4'>
+        Case
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='3100' class='st5 st6 st7' dominant-baseline='middle'>
+        submission_case
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='642' y='3100' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path d='M230,3202 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M230,3202 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M50,3180 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='3198' class='st3 st4'>
+        mgend_disease:db89b32070...
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='3170' class='st5 st6 st7' dominant-baseline='middle'>
+        Disease
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='222' y='3170' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st11' points='230,3185 250,3185 250,3185 465,3185'/>
+  <polygon points='460.3,3190.7 459.4,3189.7 464.4,3185.0 459.4,3180.3 460.3,3179.3 466.5,3185.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3180)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='470' y='3160' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 3185px; margin-left: 471px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  m2r:Disease
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='560' y='3179' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          m2r:Disease
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3185 250,3185 250,3255 465,3255'/>
+  <polygon points='460.3,3260.7 459.4,3259.7 464.4,3255.0 459.4,3250.3 460.3,3249.3 466.5,3255.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3250)'>
+    rdfs:label
+  </text>
+  <g>
+    <rect x='470' y='3230' width='180' height='50' class='st9'/>
+    <polyline points='470,3250 470,3230 650,3230 650,3250' class='st2'/>
+    <g>
+      <text x='478' y='3265' class='st3 st4' dominant-baseline='middle'>
+        EHLERS-DANLOS SYNDROME, PROGEROID TYPE, 2; EDSP2
+      </text>
+    </g>
+    <g>
+      <text x='478' y='3240' class='st5 st6 st7' dominant-baseline='middle'>
+        disease_name
+      </text>
+    </g>
+    <g>
+      <text x='642' y='3240' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3185 250,3185 250,3325 465,3325'/>
+  <polygon points='460.3,3330.7 459.4,3329.7 464.4,3325.0 459.4,3320.3 460.3,3319.3 466.5,3325.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3320)'>
+    mgendo:case
+  </text>
+  <g>
+    <g>
+      <path d='M650,3342 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M650,3342 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M470,3320 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='3338' class='st3 st4'>
+        Case
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='3310' class='st5 st6 st7' dominant-baseline='middle'>
+        disease_case
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='642' y='3310' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path d='M230,3412 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M230,3412 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M50,3390 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='3408' class='st3 st4'>
+        mgend_gene:B3GALT6
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='3380' class='st5 st6 st7' dominant-baseline='middle'>
+        Gene
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='222' y='3380' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st11' points='230,3395 250,3395 250,3395 465,3395'/>
+  <polygon points='460.3,3400.7 459.4,3399.7 464.4,3395.0 459.4,3390.3 460.3,3389.3 466.5,3395.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3390)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='470' y='3370' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 3395px; margin-left: 471px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  m2r:Gene
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='560' y='3389' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          m2r:Gene
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3395 250,3395 250,3465 465,3465'/>
+  <polygon points='460.3,3470.7 459.4,3469.7 464.4,3465.0 459.4,3460.3 460.3,3459.3 466.5,3465.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3460)'>
+    rdfs:label
+  </text>
+  <g>
+    <rect x='470' y='3440' width='180' height='50' class='st9'/>
+    <polyline points='470,3460 470,3440 650,3440 650,3460' class='st2'/>
+    <g>
+      <text x='478' y='3475' class='st3 st4' dominant-baseline='middle'>
+        B3GALT6
+      </text>
+    </g>
+    <g>
+      <text x='478' y='3450' class='st5 st6 st7' dominant-baseline='middle'>
+        gene_name
+      </text>
+    </g>
+    <g>
+      <text x='642' y='3450' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3395 250,3395 250,3535 465,3535'/>
+  <polygon points='460.3,3540.7 459.4,3539.7 464.4,3535.0 459.4,3530.3 460.3,3529.3 466.5,3535.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3530)'>
+    rdfs:seeAlso
+  </text>
+  <g>
+    <rect x='470' y='3510' width='180' height='50' class='st9'/>
+    <polyline points='470,3530 470,3510 650,3510 650,3530' class='st2'/>
+    <g>
+      <text x='478' y='3545' class='st3 st4' dominant-baseline='middle'>
+        hgnc:17978
+      </text>
+    </g>
+    <g>
+      <text x='478' y='3520' class='st5 st6 st7' dominant-baseline='middle'>
+        gene_xref
+      </text>
+    </g>
+    <g>
+      <text x='642' y='3520' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <g>
+    <g>
+      <path d='M230,3622 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M230,3622 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M50,3600 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='3618' class='st3 st4'>
+        mgend_var:GRCh38_chr1_1232279_1232279_A_G
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='58' y='3590' class='st5 st6 st7' dominant-baseline='middle'>
+        Variant
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='222' y='3590' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st11' points='230,3605 250,3605 250,3605 465,3605'/>
+  <polygon points='460.3,3610.7 459.4,3609.7 464.4,3605.0 459.4,3600.3 460.3,3599.3 466.5,3605.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3600)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='470' y='3580' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 3605px; margin-left: 471px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  gvo:SNV
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='560' y='3599' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          gvo:SNV
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,3675 465,3675'/>
+  <polygon points='460.3,3680.7 459.4,3679.7 464.4,3675.0 459.4,3670.3 460.3,3669.3 466.5,3675.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3670)'>
+    faldo:location
+  </text>
+  <g>
+    <ellipse cx='490' cy='3675' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st11' points='510,3675 530,3675 530,3675 745,3675'/>
+  <polygon points='740.3,3680.7 739.4,3679.7 744.4,3675.0 739.4,3670.3 740.3,3669.3 746.5,3675.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 3670)'>
+    rdf:type
+  </text>
+  <g>
+    <rect x='750' y='3650' width='180' height='50' rx='7.5' ry='7.5' fill='#fff4c3' stroke='#000000' stroke-width='2' pointer-events='all'/>
+    <g transform='translate(-0.5 -0.5)'>
+      <switch>
+        <foreignObject style='overflow: visible; text-align: left' pointer-events='none' width='100%' height='100%' requiredFeatures='http://www.w3.org/TR/SVG11/feature#Extensibility'>
+          <div xmlns='http://www.w3.org/1999/xhtml' style='display: flex; align-items: unsafe center; justify-content: unsafe center; width: 178px; height: 1px; padding-top: 3675px; margin-left: 751px'>
+            <div style='box-sizing: border-box; font-size: 0; text-align: center;'>
+              <div style='display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal'>
+                <div>
+                  faldo:ExactPosition
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x='840' y='3669' fill='#000000' font-family='Helvetica' font-size='12px' text-anchor='middle'>
+          faldo:ExactPosition
+        </text>
+      </switch>
+    </g>
+  </g>
+  <polyline class='st12' points='510,3675 530,3675 530,3745 745,3745'/>
+  <polygon points='740.3,3750.7 739.4,3749.7 744.4,3745.0 739.4,3740.3 740.3,3739.3 746.5,3745.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 3740)'>
+    faldo:position
+  </text>
+  <g>
+    <rect x='750' y='3720' width='180' height='50' class='st9'/>
+    <polyline points='750,3740 750,3720 930,3720 930,3740' class='st2'/>
+    <g>
+      <text x='758' y='3755' class='st3 st4' dominant-baseline='middle'>
+        1232279
+      </text>
+    </g>
+    <g>
+      <text x='758' y='3730' class='st5 st6 st7' dominant-baseline='middle'>
+        position
+      </text>
+    </g>
+    <g>
+      <text x='922' y='3730' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        Int
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='510,3675 530,3675 530,3815 745,3815'/>
+  <polygon points='740.3,3820.7 739.4,3819.7 744.4,3815.0 739.4,3810.3 740.3,3809.3 746.5,3815.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 3810)'>
+    faldo:reference
+  </text>
+  <g>
+    <g>
+      <path d='M930,3832 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st9uri'/>
+      <path d='M930,3832 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M750,3810 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='758' y='3828' class='st3 st4'>
+        hco:1\/GRCh38
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='758' y='3800' class='st5 st6 st7' dominant-baseline='middle'>
+        reference
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='922' y='3800' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,3885 465,3885'/>
+  <polygon points='460.3,3890.7 459.4,3889.7 464.4,3885.0 459.4,3880.3 460.3,3879.3 466.5,3885.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3880)'>
+    gvo:ref
+  </text>
+  <g>
+    <rect x='470' y='3860' width='180' height='50' class='st9'/>
+    <polyline points='470,3880 470,3860 650,3860 650,3880' class='st2'/>
+    <g>
+      <text x='478' y='3895' class='st3 st4' dominant-baseline='middle'>
+        A
+      </text>
+    </g>
+    <g>
+      <text x='478' y='3870' class='st5 st6 st7' dominant-baseline='middle'>
+        ref
+      </text>
+    </g>
+    <g>
+      <text x='642' y='3870' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,3955 465,3955'/>
+  <polygon points='460.3,3960.7 459.4,3959.7 464.4,3955.0 459.4,3950.3 460.3,3949.3 466.5,3955.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 3950)'>
+    gvo:alt
+  </text>
+  <g>
+    <rect x='470' y='3930' width='180' height='50' class='st9'/>
+    <polyline points='470,3950 470,3930 650,3930 650,3950' class='st2'/>
+    <g>
+      <text x='478' y='3965' class='st3 st4' dominant-baseline='middle'>
+        G
+      </text>
+    </g>
+    <g>
+      <text x='478' y='3940' class='st5 st6 st7' dominant-baseline='middle'>
+        alt
+      </text>
+    </g>
+    <g>
+      <text x='642' y='3940' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,4025 465,4025'/>
+  <polygon points='460.3,4030.7 459.4,4029.7 464.4,4025.0 459.4,4020.3 460.3,4019.3 466.5,4025.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 4020)'>
+    m2r:gene
+  </text>
+  <g>
+    <g>
+      <path d='M650,4042 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M650,4042 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M470,4020 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='4038' class='st3 st4'>
+        Gene
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='4010' class='st5 st6 st7' dominant-baseline='middle'>
+        gene
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='642' y='4010' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,4095 465,4095'/>
+  <polygon points='460.3,4100.7 459.4,4099.7 464.4,4095.0 459.4,4090.3 460.3,4089.3 466.5,4095.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 4090)'>
+    m2r:disease
+  </text>
+  <g>
+    <g>
+      <path d='M650,4112 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M650,4112 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M470,4090 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='4108' class='st3 st4'>
+        Disease
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='4080' class='st5 st6 st7' dominant-baseline='middle'>
+        variant_disease
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='642' y='4080' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,4165 465,4165'/>
+  <polygon points='460.3,4170.7 459.4,4169.7 464.4,4165.0 459.4,4160.3 460.3,4159.3 466.5,4165.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 4160)'>
+    mgendo:case
+  </text>
+  <g>
+    <g>
+      <path d='M650,4182 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st0'/>
+      <path d='M650,4182 c0,4.4 -3.6,8 -8,8 h-164 c-4.4,0 -8,-3.6 -8,-8 v-34 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v34 z' class='st1'/>
+    </g>
+    <g class='st2'>
+      <path d='M470,4160 v-12 c0,-4.4 3.6,-8 8,-8 h164 c4.4,0 8,3.6 8,8 v12'/>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='4178' class='st3 st4'>
+        Case
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='478' y='4150' class='st5 st6 st7' dominant-baseline='middle'>
+        variant_case
+      </text>
+    </g>
+    <g transform='translate(-0.5 -0.5)'>
+      <text x='642' y='4150' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        URI
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,4235 465,4235'/>
+  <polygon points='460.3,4240.7 459.4,4239.7 464.4,4235.0 459.4,4230.3 460.3,4229.3 466.5,4235.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 4230)'>
+    skos:note
+  </text>
+  <g>
+    <rect x='470' y='4210' width='180' height='50' class='st9'/>
+    <polyline points='470,4230 470,4210 650,4210 650,4230' class='st2'/>
+    <g>
+      <text x='478' y='4245' class='st3 st4' dominant-baseline='middle'>
+        ENST00000379198.5:c.1A&gt;G
+      </text>
+    </g>
+    <g>
+      <text x='478' y='4220' class='st5 st6 st7' dominant-baseline='middle'>
+        hgvs_notation
+      </text>
+    </g>
+    <g>
+      <text x='642' y='4220' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,4305 465,4305'/>
+  <polygon points='460.3,4310.7 459.4,4309.7 464.4,4305.0 459.4,4300.3 460.3,4299.3 466.5,4305.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 4300)'>
+    skos:note
+  </text>
+  <g>
+    <rect x='470' y='4280' width='180' height='50' class='st9'/>
+    <polyline points='470,4300 470,4280 650,4280 650,4300' class='st2'/>
+    <g>
+      <text x='478' y='4315' class='st3 st4' dominant-baseline='middle'>
+        ENST00000379198.5:p.?
+      </text>
+    </g>
+    <g>
+      <text x='478' y='4290' class='st5 st6 st7' dominant-baseline='middle'>
+        hgvs_notation
+      </text>
+    </g>
+    <g>
+      <text x='642' y='4290' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,4375 465,4375'/>
+  <polygon points='460.3,4380.7 459.4,4379.7 464.4,4375.0 459.4,4370.3 460.3,4369.3 466.5,4375.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 4370)'>
+    skos:note
+  </text>
+  <g>
+    <rect x='470' y='4350' width='180' height='50' class='st9'/>
+    <polyline points='470,4370 470,4350 650,4350 650,4370' class='st2'/>
+    <g>
+      <text x='478' y='4385' class='st3 st4' dominant-baseline='middle'>
+        NM_080605.3:c.1A&gt;G
+      </text>
+    </g>
+    <g>
+      <text x='478' y='4360' class='st5 st6 st7' dominant-baseline='middle'>
+        hgvs_notation
+      </text>
+    </g>
+    <g>
+      <text x='642' y='4360' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,4445 465,4445'/>
+  <polygon points='460.3,4450.7 459.4,4449.7 464.4,4445.0 459.4,4440.3 460.3,4439.3 466.5,4445.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 4440)'>
+    skos:note
+  </text>
+  <g>
+    <rect x='470' y='4420' width='180' height='50' class='st9'/>
+    <polyline points='470,4440 470,4420 650,4420 650,4440' class='st2'/>
+    <g>
+      <text x='478' y='4455' class='st3 st4' dominant-baseline='middle'>
+        NP_542172.2:p.?
+      </text>
+    </g>
+    <g>
+      <text x='478' y='4430' class='st5 st6 st7' dominant-baseline='middle'>
+        hgvs_notation
+      </text>
+    </g>
+    <g>
+      <text x='642' y='4430' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='230,3605 250,3605 250,4515 465,4515'/>
+  <polygon points='460.3,4520.7 459.4,4519.7 464.4,4515.0 459.4,4510.3 460.3,4509.3 466.5,4515.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 260 4510)'>
+    gvo:info
+  </text>
+  <g>
+    <ellipse cx='490' cy='4515' rx='20' ry='20' fill='#f2f2e9' stroke='#000000' stroke-dasharray='3 3' pointer-events='all'/>
+  </g>
+  <polyline class='st12' points='510,4515 530,4515 530,4515 745,4515'/>
+  <polygon points='740.3,4520.7 739.4,4519.7 744.4,4515.0 739.4,4510.3 740.3,4509.3 746.5,4515.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 4510)'>
+    rdfs:label
+  </text>
+  <g>
+    <rect x='750' y='4490' width='180' height='50' class='st9'/>
+    <polyline points='750,4510 750,4490 930,4490 930,4510' class='st2'/>
+    <g>
+      <text x='758' y='4525' class='st3 st4' dominant-baseline='middle'>
+        RS
+      </text>
+    </g>
+    <g>
+      <text x='758' y='4500' class='st5 st6 st7' dominant-baseline='middle'>
+        rs
+      </text>
+    </g>
+    <g>
+      <text x='922' y='4500' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <polyline class='st12' points='510,4515 530,4515 530,4585 745,4585'/>
+  <polygon points='740.3,4590.7 739.4,4589.7 744.4,4585.0 739.4,4580.3 740.3,4579.3 746.5,4585.0'/>
+  <text class='st6 st4' transform='matrix(1 0 0 1 540 4580)'>
+    rdf:value
+  </text>
+  <g>
+    <rect x='750' y='4560' width='180' height='50' class='st9'/>
+    <polyline points='750,4580 750,4560 930,4560 930,4580' class='st2'/>
+    <g>
+      <text x='758' y='4595' class='st3 st4' dominant-baseline='middle'>
+        786200938
+      </text>
+    </g>
+    <g>
+      <text x='758' y='4570' class='st5 st6 st7' dominant-baseline='middle'>
+        rs_number
+      </text>
+    </g>
+    <g>
+      <text x='922' y='4570' class='st8 st6 st7' text-anchor='end' dominant-baseline='middle'>
+        String
+      </text>
+    </g>
+  </g>
+  <g>
+    <text x='60' y='4654' font-size='14px' class='st6'>
+      Namespaces
+    </text>
+    <text x='60' y='4670' font-size='12px' class='st3'>
+      dcterms: &lt;http://purl.org/dc/terms/&gt;
+    </text>
+    <text x='60' y='4686' font-size='12px' class='st3'>
+      faldo: &lt;http://biohackathon.org/resource/faldo#&gt;
+    </text>
+    <text x='60' y='4702' font-size='12px' class='st3'>
+      foaf: &lt;http://xmlns.com/foaf/0.1/&gt;
+    </text>
+    <text x='60' y='4718' font-size='12px' class='st3'>
+      gvo: &lt;http://genome-variation.org/&gt;
+    </text>
+    <text x='60' y='4734' font-size='12px' class='st3'>
+      hco: &lt;http://identifiers.org/hco/&gt;
+    </text>
+    <text x='60' y='4750' font-size='12px' class='st3'>
+      m2r: &lt;http://purl.jp/bio/10/med2rdf/&gt;
+    </text>
+    <text x='60' y='4766' font-size='12px' class='st3'>
+      mgend: &lt;http://med2rdf.org/mgend&gt;
+    </text>
+    <text x='60' y='4782' font-size='12px' class='st3'>
+      mgend_case: &lt;http://med2rdf.org/mgend/case/&gt;
+    </text>
+    <text x='60' y='4798' font-size='12px' class='st3'>
+      mgend_disease: &lt;http://med2rdf.org/mgend/disease/&gt;
+    </text>
+    <text x='60' y='4814' font-size='12px' class='st3'>
+      mgend_gene: &lt;http://med2rdf.org/mgend/gene/&gt;
+    </text>
+    <text x='60' y='4830' font-size='12px' class='st3'>
+      mgend_submission: &lt;http://med2rdf.org/mgend/submission/&gt;
+    </text>
+    <text x='60' y='4846' font-size='12px' class='st3'>
+      mgend_var: &lt;http://med2rdf.org/mgend/variant/&gt;
+    </text>
+    <text x='60' y='4862' font-size='12px' class='st3'>
+      mgendo: &lt;http://med2rdf.org/mgend/ontology#&gt;
+    </text>
+    <text x='60' y='4878' font-size='12px' class='st3'>
+      obo: &lt;http://purl.obolibrary.org/obo/&gt;
+    </text>
+    <text x='60' y='4894' font-size='12px' class='st3'>
+      olo: &lt;http://purl.org/ontology/olo/core#&gt;
+    </text>
+    <text x='60' y='4910' font-size='12px' class='st3'>
+      org: &lt;https://www.w3.org/ns/org#&gt;
+    </text>
+    <text x='60' y='4926' font-size='12px' class='st3'>
+      owl: &lt;http://www.w3.org/2002/07/owl#&gt;
+    </text>
+    <text x='60' y='4942' font-size='12px' class='st3'>
+      pav: &lt;http://purl.org/pav/&gt;
+    </text>
+    <text x='60' y='4958' font-size='12px' class='st3'>
+      rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+    </text>
+    <text x='60' y='4974' font-size='12px' class='st3'>
+      rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+    </text>
+    <text x='60' y='4990' font-size='12px' class='st3'>
+      sio: &lt;http://semanticscience.org/resource/&gt;
+    </text>
+    <text x='60' y='5006' font-size='12px' class='st3'>
+      skos: &lt;http://www.w3.org/2004/02/skos/core#&gt;
+    </text>
+    <rect x='50' y='4630' width='356' height='390' fill='none' stroke='#000000' stroke-width='1'/>
+  </g>
+</svg>
