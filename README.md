@@ -46,5 +46,6 @@ Prerequisites
 
 ```
 $ git clone https://github.com/med2rdf/mgend.git
-$ cargo build
+$ cargo build --release
+$ ./target/release/mgend-rdf --help
 ```
