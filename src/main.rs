@@ -48,6 +48,10 @@ struct Options {
     #[structopt(long, possible_values(Assembly::VARIANTS))]
     assembly: Assembly,
 
+    /// Path to output directory
+    #[structopt(long, parse(from_os_str))]
+    directory: PathBuf,
+
     /// Output format
     #[structopt(long, possible_values(Format::VARIANTS))]
     format: Format,
@@ -59,10 +63,6 @@ struct Options {
     /// Process only one line
     #[structopt(long)]
     rehearsal: bool,
-
-    /// Path to output directory
-    #[structopt(long, parse(from_os_str))]
-    directory: PathBuf,
 
     /// Path to input file [*.tsv | *.tsv.gz]
     #[structopt(parse(from_os_str))]
@@ -138,6 +138,15 @@ fn main() -> io::Result<()> {
         if option.rehearsal {
             break;
         }
+    }
+
+    if option.directory.exists() && !option.directory.is_dir() {
+        Err(io::Error::new(
+            io::ErrorKind::Other,
+            format!("{} is not a directory", option.directory.to_string_lossy()),
+        ))?
+    } else if !option.directory.exists() {
+        std::fs::create_dir_all(&option.directory)?
     }
 
     match option.format {
