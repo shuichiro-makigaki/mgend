@@ -1,7 +1,8 @@
 use crate::format::turtle::ToTurtle;
 use crate::models::context::Contexts;
 use crate::models::input::{
-    AlleleOrigin, ClinicalSignificance, DataOrigin, DiseaseArea1, DiseaseArea2, Record,
+    AlleleOrigin, ClinicalSignificance, CodeType, ConditionIDType, DataOrigin, DiseaseArea1,
+    DiseaseArea2, Record,
 };
 use crate::models::name_space::{
     NameSpace, NameSpaces, MED2RDF, MGEND_CASE, MGEND_DISEASE, MGEND_ONTOLOGY, MGEND_SUBMISSION,
@@ -10,6 +11,8 @@ use crate::models::name_space::{
 use crate::models::output::disease::Disease;
 use crate::models::output::submission::Submission;
 use crate::models::output::variant::Variant;
+use crate::models::output::XRef;
+use crate::models::regex;
 use serde::Serialize;
 use serde_json::{json, Value};
 use std::io;
@@ -109,6 +112,8 @@ pub struct Case {
     disease_area: Option<DiseaseArea1>,
     #[serde(skip_serializing_if = "Option::is_none")]
     sub_disease_area: Option<DiseaseArea2>,
+    #[serde(skip_serializing_if = "Vec::is_empty")]
+    xref: Vec<XRef>,
     case_significance: ClinicalSignificance,
     case_count_total: i32,
     case_age_range_count: Vec<Histogram>,
@@ -141,6 +146,54 @@ impl<'a> From<&Record<'a>> for Case {
                 typ.push(format!("{}:{}", OBO.prefix, SO_GERMLINE_VARIANT))
             }
             _ => {}
+        }
+
+        let mut xref = Vec::new();
+        if let (Some(typ), Some(id)) = (&value.row.code_type, &value.row.code_value) {
+            match typ {
+                CodeType::ICD10 => {
+                    if let Some(caps) = regex!(r"[A-Z]\d+(\.[-\d+])?").captures(id) {
+                        xref.push(XRef::ICD10(caps[0].to_string()));
+                    }
+                }
+                CodeType::SnomedCt => {
+                    xref.push(XRef::SnomedCt(id.to_owned()));
+                }
+            }
+        }
+        if let (Some(typ), Some(id)) = (&value.row.condition_id_type, &value.row.condition_id_value)
+        {
+            match typ {
+                ConditionIDType::MeSH => {
+                    if let Some(caps) = regex!(r"[CD]\d+").captures(id) {
+                        xref.push(XRef::MeSH(caps[0].to_string()));
+                    }
+                }
+                ConditionIDType::MedGen => {
+                    if let Some(caps) = regex!(r"^[CN]+\d{4,7}$").captures(id) {
+                        xref.push(XRef::MedGenCID(caps[0].to_string()));
+                    } else if let Some(caps) = regex!(r"^\d{4,7}$").captures(id) {
+                        xref.push(XRef::MedGenUID(caps[0].to_string()));
+                    }
+                }
+                ConditionIDType::OMIM => {
+                    if let Some(caps) = regex!(r"^PS\d+$").captures(id) {
+                        xref.push(XRef::OMIMPS(caps[0].to_string()));
+                    } else if let Some(caps) = regex!(r"^\d+$").captures(id) {
+                        xref.push(XRef::OMIM(caps[0].to_string()));
+                    }
+                }
+                ConditionIDType::HPO => {
+                    if let Some(caps) = regex!(r"\d+").captures(id) {
+                        xref.push(XRef::HPO(caps[0].to_string()));
+                    }
+                }
+                ConditionIDType::Orphanet => {
+                    if let Some(caps) = regex!(r"\d+").captures(id) {
+                        xref.push(XRef::Orphanet(caps[0].to_string()));
+                    }
+                }
+            }
         }
 
         let case_age_count = Histogram::new(
@@ -197,14 +250,15 @@ impl<'a> From<&Record<'a>> for Case {
             variant: format!("{}:{}", MGEND_VARIANT.prefix, Variant::id(value)),
             submission: format!("{}:{}", MGEND_SUBMISSION.prefix, Submission::id(value)),
             disease: Disease::id(value).map(|x| format!("{}:{}", MGEND_DISEASE.prefix, x)),
-            case_count_total: r.age_0_9_denominator,
-            case_age_range_count: vec![case_age_count, case_age_of_on_set_count],
-            case_sex_count,
-            case_significance: r.clinical_significance.clone(),
             variant_type: r.data_origin.clone(),
             allele_origin: r.allele_origin.clone(),
             disease_area: r.disease_area_1.clone(),
             sub_disease_area: r.disease_area_2.clone(),
+            xref,
+            case_significance: r.clinical_significance.clone(),
+            case_count_total: r.age_0_9_denominator,
+            case_age_range_count: vec![case_age_count, case_age_of_on_set_count],
+            case_sex_count,
         }
     }
 }
@@ -246,6 +300,10 @@ impl Contexts for Case {
           "count": "rdf:value",
           "disease": {
             "@id": "m2r:disease",
+            "@type": "@id"
+          },
+          "xref": {
+            "@id": "rdfs:seeAlso",
             "@type": "@id"
           },
           "disease_area": "mgendo:disease_area",
@@ -323,6 +381,18 @@ impl ToTurtle for Case {
                     MGEND_ONTOLOGY.prefix, v
                 )?;
             }
+        }
+        if self.xref.len() > 0 {
+            write!(
+                vec,
+                " ;\n  {}:seeAlso {}",
+                RDFS.prefix,
+                self.xref
+                    .iter()
+                    .map(|v| format!("<{}>", v))
+                    .collect::<Vec<String>>()
+                    .join(", ")
+            )?;
         }
         if let Ok(v) = serde_json::to_string(&self.case_significance) {
             write!(
