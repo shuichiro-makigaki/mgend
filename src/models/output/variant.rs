@@ -165,7 +165,7 @@ impl ToTurtle for Variant {
         write!(
             vec,
             "{}:{} a {}:{}",
-            MGEND_CASE.prefix,
+            MGEND_VARIANT.prefix,
             self.pname(&self.id),
             GVO.prefix,
             self.typ
