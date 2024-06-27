@@ -39,9 +39,7 @@ impl Gene {
             id: symbol.as_ref().to_string(),
             typ: format!("{}:Gene", MED2RDF.prefix),
             label: symbol.as_ref().to_string(),
-            xref: Gene::hgnc(hgnc)
-                .find(symbol)
-                .map(|x| format!("{}:{}", HGNC.prefix, x)),
+            xref: Gene::hgnc(hgnc).find(symbol).map(|x| x.to_owned()),
         }
     }
 }

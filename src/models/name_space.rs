@@ -19,8 +19,8 @@ macro_rules! ns {
 ns!(FALDO, "faldo", "http://biohackathon.org/resource/faldo#");
 ns!(FOAF, "foaf", "http://xmlns.com/foaf/0.1/");
 ns!(GVO, "gvo", "http://genome-variation.org/");
-ns!(HCO, "hco", "http://identifiers.org/hco/");
-ns!(HGNC, "hgnc", "http://identifiers.org/hgnc/");
+ns!(HCO, "hco", "http://identifiers.org/hco:");
+ns!(HGNC, "hgnc", "http://identifiers.org/hgnc:");
 ns!(OBO, "obo", "http://purl.obolibrary.org/obo/");
 ns!(OLO, "olo", "http://purl.org/ontology/olo/core#");
 ns!(ORG, "org", "https://www.w3.org/ns/org#");
