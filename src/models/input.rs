@@ -188,7 +188,7 @@ pub struct Row {
     #[serde(rename(deserialize = "AlleleOrigin"))]
     pub allele_origin: Option<AlleleOrigin>,
     /// /MGS\d{6}/ or "not provided"
-    #[serde(rename(deserialize = "SubmissionID"))]
+    #[serde(default="default_resource", rename(deserialize = "SubmissionID"))]
     pub submission_id: String,
     #[serde(rename(deserialize = "SubmitterName1"))]
     pub submitter_name_1: Option<String>,
@@ -203,21 +203,25 @@ pub struct Row {
     pub citation: Option<String>,
 }
 
+fn default_resource() -> String {
+    "".to_string()
+}
+
 #[derive(Debug, Clone, Deserialize, Serialize)]
 pub enum ClinicalSignificance {
     Benign,
     Pathogenic,
-    #[serde(rename = "Uncertain significance")]
+    #[serde(rename = "Uncertain_significance")]
     UncertainSignificance,
-    #[serde(rename = "not provided")]
+    #[serde(rename = "not_provided")]
     NotProvided,
-    #[serde(rename = "Likely benign")]
+    #[serde(rename = "Likely_benign")]
     LikelyBenign,
-    #[serde(rename = "Likely pathogenic")]
+    #[serde(rename = "Likely_pathogenic")]
     LikelyPathogenic,
     #[serde(rename = "other")]
     Other,
-    #[serde(rename = "drug response")]
+    #[serde(rename = "drug_response")]
     DrugResponse,
 }
 
@@ -241,11 +245,11 @@ pub enum ConditionIDType {
 pub enum DiseaseArea1 {
     Cancer,
     Dementia,
-    #[serde(rename = "Infectious diseases")]
+    #[serde(rename = "Infectious_diseases")]
     InfectiousDiseases,
     #[serde(rename = "Others")]
     Others,
-    #[serde(rename = "Rare/Intractable diseases")]
+    #[serde(rename = "Rare/Intractable_diseases")]
     RareIntractableDiseases,
 }
 
